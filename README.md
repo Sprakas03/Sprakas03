@@ -1,4 +1,4 @@
-## Hi, i'm  #Suryaprakash S# 👋
+## Hi, i'm Suryaprakash! 👋
 
 <!--
 **Sprakas03/Sprakas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
